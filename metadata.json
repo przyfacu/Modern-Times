@@ -1,0 +1,6 @@
+{
+  "name": "Modern Times",
+  "description": "El periodico definitivo de la epoca, con grabados xilograficos y cronicas autenticas de finales del siglo XVI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
